@@ -15,6 +15,13 @@
       "when": 1753382108086,
       "tag": "0001_fancy_madrox",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1753395018825,
+      "tag": "0002_tiny_black_knight",
+      "breakpoints": true
     }
   ]
 }
